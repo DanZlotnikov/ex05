@@ -22,13 +22,13 @@ namespace GameUI
 
         Game.Game game;
 
-        public GameForm(int boardHeight, int boardWidth, string? player1, string? player2)
+        public GameForm(int i_boardHeight, int i_boardWidth, string? i_player1, string? i_player2)
         {
-            this.boardHeight = boardHeight;
-            this.boardWidth = boardWidth;
+            this.boardHeight = i_boardHeight;
+            this.boardWidth = i_boardWidth;
 
-            game = new Game.Game(boardHeight, boardWidth, player1, player2);
-            valuesImages = new Image[(boardHeight * boardWidth) / 2];
+            game = new Game.Game(i_boardHeight, i_boardWidth, i_player1, i_player2);
+            valuesImages = new Image[(i_boardHeight * i_boardWidth) / 2];
 
             // TODO: chane to any turn
             game.OnComputerDidTurn += () =>
@@ -145,12 +145,17 @@ namespace GameUI
 
         private Color GetPlayerColor(Game.Player player)
         {
-            return player == game.player1 ? Color.Red : Color.Green;
+            return player == game.player1 ? Color.MediumPurple : Color.LightGreen;
         }
 
         private Image GetValueImage(int value)
         {
             return this.valuesImages[value];
+        }
+
+        private void player2Name_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

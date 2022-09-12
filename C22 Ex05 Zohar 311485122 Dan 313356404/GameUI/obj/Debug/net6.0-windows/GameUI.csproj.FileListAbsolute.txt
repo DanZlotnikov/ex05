@@ -19,3 +19,24 @@ C:\Users\zohar buchris\Documents\GitHub\ex05\MemoryGame\GameUI\bin\Debug\net6.0-
 C:\Users\zohar buchris\Documents\GitHub\ex05\MemoryGame\GameUI\bin\Debug\net6.0-windows\Game.pdb
 C:\Users\zohar buchris\Documents\GitHub\ex05\MemoryGame\GameUI\obj\Debug\net6.0-windows\GameUI.csproj.CopyComplete
 C:\Users\zohar buchris\Documents\GitHub\ex05\MemoryGame\GameUI\obj\Debug\net6.0-windows\GameUI.GameForm.resources
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\GameUI.exe
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\GameUI.deps.json
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\GameUI.runtimeconfig.json
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\GameUI.dll
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\GameUI.pdb
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\Game.dll
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\bin\Debug\net6.0-windows\Game.pdb
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.csproj.AssemblyReference.cache
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.Form1.resources
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.GameForm.resources
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.csproj.GenerateResource.cache
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.AssemblyInfoInputs.cache
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.AssemblyInfo.cs
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.csproj.CopyComplete
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.dll
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\refint\GameUI.dll
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.pdb
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\GameUI.genruntimeconfig.cache
+C:\Users\dan.z\ex05\C22 Ex05 Zohar 311485122 Dan 313356404\GameUI\obj\Debug\net6.0-windows\ref\GameUI.dll

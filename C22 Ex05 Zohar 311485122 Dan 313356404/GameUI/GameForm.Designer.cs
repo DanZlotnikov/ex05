@@ -85,9 +85,10 @@
             // player1Name
             // 
             this.player1Name.AutoSize = true;
+            this.player1Name.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.player1Name.Location = new System.Drawing.Point(17, 17);
             this.player1Name.Name = "player1Name";
-            this.player1Name.Size = new System.Drawing.Size(0, 20);
+            this.player1Name.Size = new System.Drawing.Size(0, 15);
             this.player1Name.TabIndex = 1;
             // 
             // player1Score
@@ -95,15 +96,16 @@
             this.player1Score.AutoSize = true;
             this.player1Score.Location = new System.Drawing.Point(121, 17);
             this.player1Score.Name = "player1Score";
-            this.player1Score.Size = new System.Drawing.Size(0, 20);
+            this.player1Score.Size = new System.Drawing.Size(0, 15);
             this.player1Score.TabIndex = 2;
             // 
             // player2Name
             // 
             this.player2Name.AutoSize = true;
+            this.player2Name.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.player2Name.Location = new System.Drawing.Point(17, 66);
             this.player2Name.Name = "player2Name";
-            this.player2Name.Size = new System.Drawing.Size(98, 20);
+            this.player2Name.Size = new System.Drawing.Size(77, 15);
             this.player2Name.TabIndex = 3;
             this.player2Name.Text = "player1Name";
             // 
@@ -112,7 +114,7 @@
             this.player2Score.AutoSize = true;
             this.player2Score.Location = new System.Drawing.Point(128, 68);
             this.player2Score.Name = "player2Score";
-            this.player2Score.Size = new System.Drawing.Size(50, 20);
+            this.player2Score.Size = new System.Drawing.Size(38, 15);
             this.player2Score.TabIndex = 4;
             this.player2Score.Text = "label3";
             // 

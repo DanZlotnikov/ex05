@@ -19,7 +19,7 @@
                 .OrderBy((x) => random.NextDouble() - 0.5).ToList();
         }
 
-        public int PlayTurn(int index)
+        public int PlayTurn(int i_index)
         {
             var score = 0;
 
@@ -34,14 +34,14 @@
                     secondSelection.revelad = secondSelection.resolved;
                 }
                 
-                firstSelection = Cells.ElementAt(index);
+                firstSelection = Cells.ElementAt(i_index);
 
                 firstSelection.revelad = true;
                 isFirstSelection = false;
             }
             else
             {
-                secondSelection = Cells.ElementAt(index);
+                secondSelection = Cells.ElementAt(i_index);
 
                 secondSelection.revelad = true;
                 if(secondSelection.value == (firstSelection?.value ?? -1))

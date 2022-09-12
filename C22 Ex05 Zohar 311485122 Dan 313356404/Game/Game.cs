@@ -38,11 +38,11 @@ namespace Game
             return Board.Cells.Count();
         }
 
-        public void PlayTurn(int index)
+        public void PlayTurn(int i_index)
         {
             var currentPlayer = GetCurrentPlayer();
 
-            var score = Board.PlayTurn(index);
+            var score = Board.PlayTurn(i_index);
             if(score == 1)
             {
                 currentPlayer.Score++;
